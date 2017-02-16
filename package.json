@@ -1,0 +1,9 @@
+{
+  "name": "svg-style",
+  "version": "1.0.0",
+  "description": "Apply CSS styles to the elements inside svg files Edit",
+  "main": "index.js",
+  "repository": "git@sagevoice-github:sagevoice/svg-style.git",
+  "author": "Jason Stafford <jks@sagevoice.com>",
+  "license": "MIT"
+}
